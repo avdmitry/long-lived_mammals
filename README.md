@@ -32,6 +32,7 @@ and 2 short-lived:
 * Prepare GO annotations
   * wget ftp://ftp.ebi.ac.uk/pub/databases/GO/goa/UNIPROT/goa_uniprot_all.gaf.gz
   * Filter with Mammalia taxons & Aspect(s)
+
     run python3 [utils/prep_mammalia_goa.py](utils/prep_mammalia_goa.py)
 
 * Download RNA-seq data [scripts/run_download.sh](scripts/run_download.sh)
