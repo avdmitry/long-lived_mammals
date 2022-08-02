@@ -1,4 +1,4 @@
-### Transcriptomes comparison through Go ranks.
+### Transcriptomes comparison through GO ranks.
 
 Reproduced liver transcriptomes comparison from
 
